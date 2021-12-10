@@ -1,3 +1,8 @@
+Este es un muro interactivo hecho con Firebase, React y JacaScript de Newder Manuel Espinosa Davis, 2019-8870
+
+Esta es la captura de pantalla:
+![Mi captura de pantalla](resources/Captura.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
