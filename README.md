@@ -1,4 +1,4 @@
-Este es un muro interactivo hecho con Firebase, React y JacaScript de Newder Manuel Espinosa Davis, 2019-8870
+Este es un muro interactivo hecho con Firebase, React y JavaScript de Newder Manuel Espinosa Davis, 2019-8870
 
 Esta es la captura de pantalla:
 ![Mi captura de pantalla](resources/Captura.png)
